@@ -54,7 +54,7 @@ How to use?
 Should you get it?
 ==================
 
-.. image:: https:https://github.com/agostini01/SerialGraphPlot/blob/master/sample.png
+.. image:: https://raw.githubusercontent.com/agostini01/SerialGraphPlot/master/sample.png
     :alt: Sample Image
     :width: 679
     :height: 781
