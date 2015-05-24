@@ -12,6 +12,7 @@ Serial is configurable.
 TIME DATA1 DATA2 DATA3 DATA4 DATA5 DATA6 DATA7 DATA8
 
 like this:
+
 10319727 -4940034 -4943618 -4911362 -4910082 -4913154 -4894978 -4912898 -4904960
 10320725 -4937218 -4938754 -4909826 -4912642 -4916226 -4893186 -4919298 -4907520
 10321722 -4945410 -4942338 -4911362 -4910594 -4915970 -4892674 -4916994 -4903680
@@ -53,8 +54,8 @@ How to use?
 Should you get it?
 ==================
 
-.. image:: https:sample.png
-    :alt: HTTPie compared to cURL
+.. image:: https:https://github.com/agostini01/SerialGraphPlot/blob/master/sample.png
+    :alt: Sample Image
     :width: 679
     :height: 781
     :align: center
