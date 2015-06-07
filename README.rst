@@ -1,6 +1,6 @@
 SerialGraphPlot
 ===============
-I was needing a real time plotting over serial, so I adapted codes from QtCreator terminal example (LGPL - <http://doc.qt.io/qt-5/qtserialport-terminal-example.html>) and used the QCustomPlot library (GPL - <http://www.qcustomplot.com/>) to partially accomplish what I was looking for.
+I was needing real time plotting over serial, so I adapted codes from QtCreator terminal example (LGPL - <http://doc.qt.io/qt-5/qtserialport-terminal-example.html>) and used the QCustomPlot library (GPL - <http://www.qcustomplot.com/>) to partially accomplish what I was looking for.
 
 What does it do?
 ================
@@ -40,11 +40,11 @@ you should change what is in
 How to use?
 ===========
 
-1. Install QtCreator <https://www.qt.io/download/> (community!!) Start installation and go grab a coffee, it may take a while (15 to 30 min, depending on the Internet)
-2. open project and configure it
-3. run (it should run just fine)
-4. configure serial communication under gear button
-5. press connect button.
+1. Install QtCreator <https://www.qt.io/download/> (community!!) Start installation and go grab a coffee, it may take a while (15 to 30 min, depending on the Internet);
+2. open project and configure it;
+3. run (it should run just fine);
+4. configure serial communication under gear button;
+5. press connect button;
 6. open graph dialog.
 
 
